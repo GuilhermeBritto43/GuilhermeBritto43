@@ -7,7 +7,7 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1200&color=A100FF&center=true&vCenter=true&width=620&height=35&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Mau%C3%A1;Backend+Developer+%40+DevCommunityMaua;Desenvolvedor+de+Software+%26+Amante+de+Dados;%22Mesmo+que+eu+erre+43+vezes%2C+continuarei+tentando%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1200&color=#808000&center=true&vCenter=true&width=620&height=35&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Mau%C3%A1;Backend+Developer+%40+DevCommunityMaua;Desenvolvedor+de+Software+%26+Amante+de+Dados;%22Mesmo+que+eu+erre+43+vezes%2C+continuarei+tentando%22" alt="Typing SVG" />
 
   <br /><br />
 
