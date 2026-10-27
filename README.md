@@ -3,11 +3,11 @@
 
   <br /><br />
 
-  <h1>👋 Guilherme Britto</h1>
+  <h1>Guilherme Britto</h1>
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1200&color=#808000&center=true&vCenter=true&width=620&height=35&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Mau%C3%A1;Backend+Developer+%40+DevCommunityMaua;Desenvolvedor+de+Software+%26+Amante+de+Dados;%22Mesmo+que+eu+erre+43+vezes%2C+continuarei+tentando%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1200&color=6B8E23&center=true&vCenter=true&width=620&height=35&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Mau%C3%A1;Backend+Developer+%40+DevCommunityMaua;Desenvolvedor+de+Software+%26+Amante+de+Dados;%22Mesmo+que+eu+erre+43+vezes%2C+continuarei+tentando%22" alt="Typing SVG" />
 
   <br /><br />
 
@@ -25,7 +25,6 @@
     </a>
   </p>
   <br />
----
 
 ### 💻 Sobre Mim
 
@@ -38,7 +37,7 @@ Gosto de criar soluções eficientes, automatizar processos, explorar novas tecn
 ### 🚀 Foco & Tecnologias Atuais
 
 #### Core & Backend
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -46,7 +45,7 @@ Gosto de criar soluções eficientes, automatizar processos, explorar novas tecn
 </p>
 
 #### Mobile, Cloud & Ferramentas
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -55,7 +54,7 @@ Gosto de criar soluções eficientes, automatizar processos, explorar novas tecn
 </p>
 
 ### Frameworks & Web
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -63,7 +62,7 @@ Gosto de criar soluções eficientes, automatizar processos, explorar novas tecn
 </p>
 
 #### Ambiente & Versionamento
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
