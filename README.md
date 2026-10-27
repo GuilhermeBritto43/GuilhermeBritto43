@@ -26,14 +26,6 @@
   </p>
 
   <br />
-
-  <p align="center">
-    <a href="https://maua.br" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/15294528?s=200&v=4" height="70" alt="Instituto Mauá de Tecnologia" style="border-radius: 50%;" />
-    </a>
-  </p>
-</div>
-
 ---
 
 ### 💻 Sobre Mim
